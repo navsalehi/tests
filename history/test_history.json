@@ -187,5 +187,47 @@
     "workflow": "proxy-cluster-provisioning",
     "job": "v2-16",
     "timestamp": "2026-08-21T01:20:09Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "day2-ops-upgraded-rancher",
+    "job": "v2-14",
+    "timestamp": "2026-08-21T06:48:43Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "day2-ops-upgraded-rancher",
+    "job": "v2-15",
+    "timestamp": "2026-08-21T06:48:43Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "day2-ops-upgraded-rancher",
+    "job": "v2-16",
+    "timestamp": "2026-08-21T06:48:43Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "proxy-cluster-provisioning",
+    "job": "v2-14",
+    "timestamp": "2026-08-21T06:48:43Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "proxy-cluster-provisioning",
+    "job": "v2-15",
+    "timestamp": "2026-08-21T06:48:43Z"
+  },
+  {
+    "date": "",
+    "status": "failure",
+    "workflow": "proxy-cluster-provisioning",
+    "job": "v2-16",
+    "timestamp": "2026-08-21T06:48:43Z"
   }
 ]
